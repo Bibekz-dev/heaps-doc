@@ -34,5 +34,8 @@ To compile for HashLink use the following example.
 # output
 -hl bin/game.hl
 ```
+for more uses:
+
+- is actually a li
  
 ---
